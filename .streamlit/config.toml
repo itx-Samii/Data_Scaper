@@ -1,0 +1,16 @@
+[server]
+maxUploadSize = 1024
+
+[theme]
+base = "light"
+primaryColor = "#4f46e5"
+backgroundColor = "#f4f6fb"
+secondaryBackgroundColor = "#eef0f8"
+textColor = "#0f172a"
+baseRadius = "large"
+font = "sans serif"
+
+[theme.sidebar]
+backgroundColor = "#0f172a"
+secondaryBackgroundColor = "#1e293b"
+textColor = "#e2e8f0"
